@@ -76,3 +76,4 @@ Feel free to fork this repository, open issues, and submit pull requests. Your c
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+---
